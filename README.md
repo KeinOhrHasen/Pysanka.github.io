@@ -1,2 +1,2 @@
 ### **Inrtoduction to Easter eggs**
-![eggs picture]()
+![eggs picture](img/Traditional_Ukrainian_Pysanka_A20.png)
